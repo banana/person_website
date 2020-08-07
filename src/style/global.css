@@ -1,0 +1,111 @@
+.MUJI_color {
+  color: #7f0019;
+}
+.MUJI_bg {
+  background: #7f0019;
+  color: #fff;
+}
+.el-button:focus, .el-button:hover,  .el-button:active{
+  background: #7f0019;
+  color: #fff;
+  border-color: #7f0019;
+}
+.el-button:hover {
+  opacity: 0.8;
+}
+.pl5 {
+  padding-left: .5rem;
+}
+.ml5 {
+  margin-left: .5rem;
+}
+.header {
+  height: 3rem;
+  line-height: 3rem;
+  font-size: 1.6rem;
+  margin-bottom: 2rem;
+  display: flex;
+}
+.header div {
+  width: 100%
+}
+.header .back {
+  background: #7f0019;
+  color: #fff;
+  font-size: 20px;
+  border: none;
+}
+.el-col {
+  border-radius: 4px;
+}
+.bg-purple-dark {
+  background: #99a9bf;
+}
+.bg-purple {
+  background: #d3dce6;
+}
+.bg-purple-light {
+  background: #e5e9f2;
+}
+.blue {
+  color: #409EFF;
+}
+.grid-content {
+  border-radius: 4px;
+  min-height: 36px;
+}
+.row-bg {
+  padding: 10px 0;
+  background-color: #f9fafc;
+}
+.search {
+  position: absolute;
+  z-index: 11;
+  width: 100%;
+  text-align: right;
+  right: 5%;
+  cursor: pointer;
+  height: 2.2rem;
+  line-height: 2.6rem;
+}
+.el-select {
+  display: block;
+}
+.date {
+  padding-left: 0px !important;
+  padding-right: 0px !important;
+}
+.text-disabled {
+  color: #C0C4CC;
+  pointer-events: none;
+  cursor: not-allowed;
+}
+
+.el-button {
+  min-width: 8rem;
+}
+.el-table {
+  margin-bottom: 3rem;
+}
+.text-left {
+  text-align: left;
+}
+.text-center {
+  text-align: center;
+}
+.text-right {
+  text-align: right;
+}
+.text-indent {
+  text-indent: 1.5rem;
+}
+.mt20 {
+  margin-top: 20px;
+}
+.pl40 {
+  padding-left : 40px;
+}
+.d-flex {
+  display: flex;
+}
+
